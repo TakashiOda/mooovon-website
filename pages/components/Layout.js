@@ -9,7 +9,7 @@ const Layout = (props) => (
       <title>mooovon</title>
       <link rel="icon" href="/favicon.ico" />
       <meta property="og:title" content="mooovon | リアルタイムアクション共有アプリ" key="title" />
-      <meta property="og:site_name" content="mooovon" />
+      <meta property="og:site_name" content="mooovon | リアルタイムアクション共有アプリ" />
       <meta property="og:image" content="https://mooov-on.com/public/mooovon_ogp.png" />
     </Head>
     <Header />
