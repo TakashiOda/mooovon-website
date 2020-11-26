@@ -8,6 +8,8 @@ const Layout = (props) => (
     <Head>
       <title>mooovon</title>
       <link rel="icon" href="/favicon.ico" />
+      <meta property="og:title" content="mooovon | リアルタイムアクション共有アプリ" key="title" />
+      {/* <meta property="og:image" content="" /> */}
     </Head>
     <Header />
     {props.children}
