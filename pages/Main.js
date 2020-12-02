@@ -29,7 +29,7 @@ const Main = (props) => (
         <p className={styles.main_top_section_subtext}>行動をリアルタイム共有して</p>
         <p className={styles.main_top_section_subtext}>みんなで前進するアプリ</p>
         <div className={styles.main_top_section_right_image_box}>
-          <a href="https://apps.apple.com/us/app/mooovon/id1542763043">
+          <a href="https://apps.apple.com/us/app/mooovon/id1542763043" target="_blank">
             <Image
               src="/ios_download_image.png"
               width={100}
@@ -202,13 +202,13 @@ const Main = (props) => (
         </div>
         <div className={styles.main_section_content}>
           <div className={styles.main_section_content_text_left}>
-            <h4 className={styles.main_section_content_title_last}>まもなくios α版リリース</h4>
+            <h4 className={styles.main_section_content_title_last}>ios版リリース</h4>
             <p className={styles.main_section_content_text}>
-              2020年12月はじめにα版をリリース予定！mooovonは無料で使えるアプリです。以下のapple storeリンクからダウンロードしてください。
+              mooovonは無料で使えるアプリです。以下のapple storeリンクからダウンロードしてください。
               フィードバックも随時受け付けていますので、こんな機能があったら嬉しいなどもご意見もお寄せください。
             </p>
             <div className={styles.main_top_section_right_image_box}>
-              <a href="https://apps.apple.com/us/app/mooovon/id1542763043">
+              <a href="https://apps.apple.com/us/app/mooovon/id1542763043" target="_blank">
                 <Image
                   src="/ios_download_image.png"
                   width={150}
