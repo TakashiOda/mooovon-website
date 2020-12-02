@@ -10,8 +10,7 @@ export default function privacyPolicy() {
             <p className={styles.policy_container_page_title_sub}>mooovon プライバシーポリシー</p>
           </div>
           <div className={styles.policy_container_section_top}>
-            <p>本プライバシーポリシーは、ユーザーが、NorthDash（運営母体=ノースダッシュ(個人事業)・以下「ノースダッシュ」といいます）が提供する
-              『mooovon（ムーボン）』と称するサービス（以下「本サービス」といいます）を利用するに当たって、
+            <p>本プライバシーポリシーは、ユーザーが、『mooovon（ムーボン）』と称するサービス（以下「本サービス」といいます）を利用するに当たって、
               ①下記に記載するユーザーの情報（以下「ユーザー情報」といいます）をノースダッシュが収集、
               利用および共有する方法と ②ノースダッシュへの連絡方法について説明するものです。
               本プライバシーポリシーにおいて別段の定義がない限り、「mooovon（ムーボン）」利用規約において定義された用語は、
