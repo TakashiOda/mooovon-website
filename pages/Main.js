@@ -29,12 +29,14 @@ const Main = (props) => (
         <p className={styles.main_top_section_subtext}>行動をリアルタイム共有して</p>
         <p className={styles.main_top_section_subtext}>みんなで前進するアプリ</p>
         <div className={styles.main_top_section_right_image_box}>
-          <Image
-            src="/ios_download_image.png"
-            width={100}
-            height={28.4}
-            className={styles.main_top_section_right_image}
-          />
+          <a href="https://apps.apple.com/us/app/mooovon/id1542763043">
+            <Image
+              src="/ios_download_image.png"
+              width={100}
+              height={28.4}
+              className={styles.main_top_section_right_image}
+            />
+          </a>
         </div>
       </div>
     </section>
@@ -206,12 +208,14 @@ const Main = (props) => (
               フィードバックも随時受け付けていますので、こんな機能があったら嬉しいなどもご意見もお寄せください。
             </p>
             <div className={styles.main_top_section_right_image_box}>
-              <Image
-                src="/ios_download_image.png"
-                width={150}
-                height={42}
-                className={styles.main_top_section_right_image}
-              />
+              <a href="https://apps.apple.com/us/app/mooovon/id1542763043">
+                <Image
+                  src="/ios_download_image.png"
+                  width={150}
+                  height={42}
+                  className={styles.main_top_section_right_image}
+                />
+              </a>
             </div>
           </div>
           <div className={styles.main_section_content_image}>
