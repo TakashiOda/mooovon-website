@@ -1,5 +1,7 @@
 import styles from '../styles/Home.module.css'
 import Image from 'next/image'
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Main = (props) => (
   <div className={styles.content_inner}>
@@ -7,10 +9,10 @@ const Main = (props) => (
       <div className={styles.main_top_section_left}>
         <div className={styles.main_top_section_image_box}>
           <Image
-            src="/mooovon_mockup02.png"
+            src="/member_mockup03.png"
             width={450}
             height={450}
-            // layout={'fixed'}
+            minHeight={300}
             className={styles.main_top_section_image}
           />
         </div>
@@ -228,6 +230,20 @@ const Main = (props) => (
               />
             </div>
           </div>
+        </div>
+        <div className={styles.form_btn_box}>
+          <p>アプリについてのご意見、ご感想、バグやエラーの報告などご意見お待ちしております！</p>
+          <a
+            className={styles.form_btn}
+            href="https://forms.gle/7wHNU7jerQadj9EGA"
+            target="_blank"
+          >
+            <FontAwesomeIcon
+              icon={faEnvelope}
+              className={styles.form_btn_icon}
+            />
+            <span>お問い合わせ</span>
+          </a>
         </div>
       </div>
     </section>

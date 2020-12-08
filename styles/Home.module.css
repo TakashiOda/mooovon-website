@@ -353,6 +353,26 @@
   font-size: 14px;
 }
 
+.form_btn_box {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+.form_btn {
+  display: flex;
+  align-items: center;
+  padding: 10px 30px;
+  background: #2e2e2e;
+  border-radius: 9px;
+  color: #fff;
+  margin-top: 20px;
+}
+.form_btn_icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
 
 /* プライバシーポリシー,利用規約*********************** */
 .policy_container_page_title {
