@@ -7,13 +7,13 @@ export default function privacyPolicy() {
       <Layout>
         <div className={styles.content_inner}>
           <div className={styles.policy_container_page_title}>
-            <p className={styles.policy_container_page_title_sub}>mooovon プライバシーポリシー</p>
+            <p className={styles.policy_container_page_title_sub}>Studin Space プライバシーポリシー</p>
           </div>
           <div className={styles.policy_container_section_top}>
-            <p>本プライバシーポリシーは、ユーザーが、『mooovon（ムーボン）』と称するサービス（以下「本サービス」といいます）を利用するに当たって、
-              ①下記に記載するユーザーの情報（以下「ユーザー情報」といいます）をノースダッシュが収集、
-              利用および共有する方法と ②ノースダッシュへの連絡方法について説明するものです。
-              本プライバシーポリシーにおいて別段の定義がない限り、「mooovon（ムーボン）」利用規約において定義された用語は、
+            <p>本プライバシーポリシーは、ユーザーが、『Studin Space（スタディンスペース）』と称するサービス（以下「本サービス」といいます）を利用するに当たって、
+              ①下記に記載するユーザーの情報（以下「ユーザー情報」といいます）をTakashi Odaが収集、
+              利用および共有する方法と ②Takashi Odaへの連絡方法について説明するものです。
+              本プライバシーポリシーにおいて別段の定義がない限り、「Studin Space（スタディンスペース）」利用規約において定義された用語は、
               本プライバシーポリシーにおいても該当するものとします。
               本プライバシーポリシーは、本サービスの利用に際して収集されるユーザー情報にのみ適用されます。
               本プライバシーポリシーをご一読いただいた上で、本サービスをご利用ください。
@@ -24,18 +24,18 @@ export default function privacyPolicy() {
           <div className={styles.policy_container_section}>
             <p className={styles.policy_container_section_title}>1. 本サービスについて</p>
             <p>本サービスは、ある同じ目標（以下「ゴール」といいます）や同じタスク・習慣（以下「アクション」といいます）を身につけたい数名のユーザー同士が、
-              本サービスに関連してノースダッシュがユーザーに提供するウェブアプリケーション・ソフトウェア
+              本サービスに関連してTakashi Odaがユーザーに提供するウェブアプリケーション・ソフトウェア
               （以下「本アプリケーション」といいます）上において、お互いに、アクションを実施した記録を
               共有し励まし合うことにより、当該チャレンジの達成を目的とする、ソーシャル・ネットワーキング・サービスです。
-              データ等は、ノースダッシュが特定する機器を通じて、同じチャレンジに取り組んでいる他のユーザーが閲覧したり、
+              データ等は、Takashi Odaが特定する機器を通じて、同じチャレンジに取り組んでいる他のユーザーが閲覧したり、
               ユーザーが指定する第三者に閲覧させたりすることができます。その他、本サービスの内容は、
-              本アプリケーション上においてノースダッシュが案内するとおりとします。
+              本アプリケーション上においてTakashi Odaが案内するとおりとします。
               また、本サービスを通じてユーザーは公式チャレンジに参加することができます。</p>
           </div>
           <div className={styles.policy_container_section}>
             <p className={styles.policy_container_section_title}>2. 本サービスにて取得、利用するユーザーのユーザー情報</p>
             <div>
-              <p>ノースダッシュは、本アプリケーションを通じて、以下に記載するユーザー情報を収集・利用致します。</p>
+              <p>Takashi Odaは、本アプリケーションを通じて、以下に記載するユーザー情報を収集・利用致します。</p>
               <div>
                 <p>(1) 本サービスの利用時にご登録いただくユーザー情報</p>
                 <ul>
@@ -89,7 +89,7 @@ export default function privacyPolicy() {
                 </ul>
               </div>
               <div>
-                <p>(3) ユーザーが本アプリケーションを通じてチャレンジに参加した場合、ノースダッシュは当該ユーザーに関する以下の個人が特定できないデータを、ノースダッシュが契約した特定の提携先に提供することがあります。</p>
+                <p>(3) ユーザーが本アプリケーションを通じてチャレンジに参加した場合、Takashi Odaは当該ユーザーに関する以下の個人が特定できないデータを、Takashi Odaが契約した特定の提携先に提供することがあります。</p>
                 <ul>
                   <li>① ユーザーのプロフィール情報（ニックネーム、アイコン画像）</li>
                   <li>② ユーザーのチーム所属情報</li>
@@ -105,13 +105,13 @@ export default function privacyPolicy() {
             <p className={styles.policy_container_section_title}>4. ユーザー情報の利用目的</p>
             <div>
               <div>
-                <p>ノースダッシュは上記第2項に記載するユーザー情報を以下の目的のために利用します。別途、事前にユーザーの同意を得ることなく、ユーザー情報を他の利用目的で利用することはいたしません。</p>
+                <p>Takashi Odaは上記第2項に記載するユーザー情報を以下の目的のために利用します。別途、事前にユーザーの同意を得ることなく、ユーザー情報を他の利用目的で利用することはいたしません。</p>
                 <ul>
                   <li>① 本サービスの提供</li>
                   <li>② 個人を特定しない形にて本サービスを改善するための、分析・統計資料作成</li>
                   <li>③ 本サービス内における、広告情報・コンテンツの表示</li>
                   <li>④ 個人を特定できない形での研究・マーケティング活動のための、分析・統計資料作成・提供</li>
-                  <li>⑤ 個人を特定できないデータのノースダッシュと契約を結んだ特定の第三者への提供</li>
+                  <li>⑤ 個人を特定できないデータのTakashi Odaと契約を結んだ特定の第三者への提供</li>
                   <li></li>
                 </ul>
               </div>
@@ -135,7 +135,7 @@ export default function privacyPolicy() {
             <p className={styles.policy_container_section_title}>5. 情報収集モジュールの利用</p>
             <div>
               <div>
-                <p>ノースダッシュは、上記第4項①〜④に記載する目的において、本アプリおよび本サービスの機能とは独立した第三者による情報収集モジュールを利用することがあります。</p>
+                <p>Takashi Odaは、上記第4項①〜④に記載する目的において、本アプリおよび本サービスの機能とは独立した第三者による情報収集モジュールを利用することがあります。</p>
                 <ul>
                   <li>Goolge Inc. / Google Firebase </li>
                   <li>Google Inc.のプライバシーポリシーの詳細につきましては、こちら又はGoogle Inc.が随時提供するその他のURLをご確認ください。</li>
@@ -145,14 +145,14 @@ export default function privacyPolicy() {
           </div>
           <div className={styles.policy_container_section}>
             <p className={styles.policy_container_section_title}>6. 安全管理措置</p>
-            <p>ノースダッシュは、ユーザーからお預かりしたユーザー情報は、上記第4、5項で挙げた利用目的の範囲内でのみ使用し、
+            <p>Takashi Odaは、ユーザーからお預かりしたユーザー情報は、上記第4、5項で挙げた利用目的の範囲内でのみ使用し、
               不正アクセス、改ざん、漏えいなどから守るべく適切な管理措置を講じます。
-              しかしながら、ノースダッシュはユーザー情報が悪用される全てのリスクを排除することを完全に保証するものではありません。</p>
+              しかしながら、Takashi Odaはユーザー情報が悪用される全てのリスクを排除することを完全に保証するものではありません。</p>
           </div>
           <div className={styles.policy_container_section}>
             <p className={styles.policy_container_section_title}>7. 本プライバシーポリシーの変更</p>
-            <p>ノースダッシュは、本プライバシーポリシーを随時変更することができます。本プライバシーポリシーに重大な変更が加えられた場合、
-              変更された旨が本アプリケーションを起動する際、その他ノースダッシュが適当と判断する方法にてユーザーに通知いたします。</p>
+            <p>Takashi Odaは、本プライバシーポリシーを随時変更することができます。本プライバシーポリシーに重大な変更が加えられた場合、
+              変更された旨が本アプリケーションを起動する際、その他Takashi Odaが適当と判断する方法にてユーザーに通知いたします。</p>
           </div>
           <div className={styles.policy_container_section}>
             <p className={styles.policy_container_section_title}>8. 問い合わせ窓口</p>
